@@ -1,0 +1,28 @@
+PREA property
+< Property ID: HC178
+Type :  House
+Availability:  for sale
+Price:  250,000 euros
+Area(sq.m.) :  120 sq.m.
+Beds :  4 bedrooms
+Location :  Menidi
+
+PREA property
+< Property ID: H12311
+Type :  House
+Availability:  for sale
+Price:  310,000 euros
+Area(sq.m.) :  180 sq.m.
+Beds :  5 bedrooms
+Location :  Anthoupoli
+
+PREA property
+< Property ID: H72621
+Type :  House
+Availability:  sold
+Price:  210,000 euros
+Area(sq.m.) :  110 sq.m.
+Beds :  3 bedrooms
+Location :  Peristeri
+
+

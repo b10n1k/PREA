@@ -1,0 +1,9 @@
+L1234; Land; 50,000 euros; 120 sq.m.; Artemida Attikis; near the sea; for sale
+FF4234; Flat; 120,000 euros; 72 sq.m.; floor 1; 2 bedrooms; Abelokipoi Athens; away of noise; for sale
+HC178; House; 250,000 euros; 120 sq.m.; 4 bedrooms; Menidi; for sale
+FL2; Flat; 105,000 euros; 70 sq.m.; floor 2; 2 bedrooms; Patisia Athens; sold
+H12311; House; 310,000 euros; 180 sq.m.; 5 bedrooms; Anthoupoli; for sale
+H12621; House; 280,000 euros; 200 sq.m.; 5 bedrooms; Menidi; sold
+H72621; House; 210,000 euros; 110 sq.m.; 3 bedrooms; Peristeri; sold
+L1288; Land; 50,000 euros; 130 sq.m.; Artemida Attikis; near the sea; sold
+L1298; Land; 45,000 euros; 130 sq.m.; Artemida Attikis; near the sea; sold
